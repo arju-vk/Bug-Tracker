@@ -145,3 +145,27 @@ Open your browser and navigate to `http://localhost:3000`
   "# Bug-Tracker"
 
 ## Images
+
+**SIGN-UP PAGE**
+
+<img width="1919" height="1019" alt="Bug Tracker Sign-Up Page" src="https://github.com/user-attachments/assets/abbaca59-6b92-406b-8467-96ac7946a346" />
+
+**LOGIN PAGE**
+
+<img width="1917" height="1020" alt="Bug Tracker Login Page" src="https://github.com/user-attachments/assets/4b6a6640-3463-4856-b24e-5ff7f9699d6b" />
+
+**DASHBOARD**
+
+<img width="1919" height="1018" alt="Bug Tracker Dashboard" src="https://github.com/user-attachments/assets/e18b75bc-6c9b-4596-aec7-81a884771969" />
+
+**KANBAN BOARD**
+
+<img width="1919" height="1019" alt="Kanban Board" src="https://github.com/user-attachments/assets/5cd5ccba-aed7-4ed1-8992-edb6f3141e53" />
+
+**KANBAN / CHART**
+
+<img width="1918" height="1018" alt="Kanban Chart" src="https://github.com/user-attachments/assets/99772ee9-c834-43b6-bbc9-3984c9eb5273" />
+
+
+
+
