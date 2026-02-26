@@ -143,3 +143,5 @@ Open your browser and navigate to `http://localhost:3000`
 - **Backend**: Node.js, Express, MongoDB, Mongoose, JWT
 - **Database**: MongoDB
   "# Bug-Tracker"
+
+## Images
