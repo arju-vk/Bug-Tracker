@@ -148,19 +148,19 @@ Open your browser and navigate to `http://localhost:3000`
 
 `SIGN-UP PAGE`
 
-<img width="1919" height="1019" alt="Bug Tracker Sign-Up Page" src="https://github.com/user-attachments/assets/abbaca59-6b92-406b-8467-96ac7946a346" />
+<img width="1919" height="1019" alt="Bug Tracker Sign-Up Page" src="https://github.com/user-attachments/assets/abbaca59-6b92-406b-8467-96ac7946a346" /><BR>
 
 `LOGIN PAGE`
 
-<img width="1917" height="1020" alt="Bug Tracker Login Page" src="https://github.com/user-attachments/assets/4b6a6640-3463-4856-b24e-5ff7f9699d6b" />
+<img width="1917" height="1020" alt="Bug Tracker Login Page" src="https://github.com/user-attachments/assets/4b6a6640-3463-4856-b24e-5ff7f9699d6b" /><BR>
 
 `DASHBOARD`
 
-<img width="1919" height="1018" alt="Bug Tracker Dashboard" src="https://github.com/user-attachments/assets/e18b75bc-6c9b-4596-aec7-81a884771969" />
+<img width="1919" height="1018" alt="Bug Tracker Dashboard" src="https://github.com/user-attachments/assets/e18b75bc-6c9b-4596-aec7-81a884771969" /><BR>
 
 `KANBAN BOARD`
 
-<img width="1919" height="1019" alt="Kanban Board" src="https://github.com/user-attachments/assets/5cd5ccba-aed7-4ed1-8992-edb6f3141e53" />
+<img width="1919" height="1019" alt="Kanban Board" src="https://github.com/user-attachments/assets/5cd5ccba-aed7-4ed1-8992-edb6f3141e53" /><BR>
 
 `KANBAN / CHART`
 
