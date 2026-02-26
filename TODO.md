@@ -1,81 +1,36 @@
-# Bug Tracker MERN Stack - Implementation Plan
+# Deployment Plan for Vercel
 
-## Phase 1: Backend Setup
+## Overview
 
-- [ ] Initialize project structure
-- [ ] Create server.js (Express server)
-- [ ] Create config/db.js (MongoDB connection)
-- [ ] Create models: User, Project, Ticket, Comment
-- [ ] Create middleware: auth.js (JWT verification)
-- [ ] Create routes: auth, projects, tickets, comments
-- [ ] Create controllers for all routes
-- [ ] Create .env file
+Deploy the Bug Tracker application (both frontend and backend) to Vercel.
 
-## Phase 2: Frontend Setup
+## Tasks
 
-- [ ] Initialize React with Vite
-- [ ] Configure Tailwind CSS
-- [ ] Setup React Router
-- [ ] Create context for Auth and Tickets
-- [ ] Create API service (Axios)
+### Phase 1: Backend Configuration for Vercel
 
-## Phase 3: Frontend Components & Pages
+- [ ] 1.1 Convert backend Express server to Vercel API routes
+- [ ] 1.2 Create vercel.json for backend
+- [ ] 1.3 Update package.json scripts for Vercel
+- [ ] 1.4 Create api/index.js (Vercel entry point)
 
-- [ ] Navbar component
-- [ ] Login/Register pages
-- [ ] Dashboard (project list)
-- [ ] Project detail page
-- [ ] Kanban board with drag-and-drop
-- [ ] Ticket creation modal
-- [ ] Ticket detail view
-- [ ] Comments section
-- [ ] Filter/Search components
+### Phase 2: Frontend Configuration
 
-## Phase 4: Integration & Polish
+- [ ] 2.1 Update api.js to use production API URL
+- [ ] 2.2 Update vite.config.js for Vercel
+- [ ] 2.3 Update package.json with Vercel deploy scripts
 
-- [ ] Connect frontend to backend
-- [ ] Add error handling
-- [ ] Add loading states
-- [ ] Test all features
+### Phase 3: Create Configuration Files
 
-## File Structure to Create:
+- [ ] 3.1 Create vercel.json for frontend
+- [ ] 3.2 Create .env.example for reference
 
-```
-/Bug Tracker
-├── backend/
-│   ├── config/
-│   │   └── db.js
-│   ├── controllers/
-│   │   ├── authController.js
-│   │   ├── projectController.js
-│   │   ├── ticketController.js
-│   │   └── commentController.js
-│   ├── middleware/
-│   │   └── auth.js
-│   ├── models/
-│   │   ├── User.js
-│   │   ├── Project.js
-│   │   ├── Ticket.js
-│   │   └── Comment.js
-│   ├── routes/
-│   │   ├── auth.js
-│   │   ├── projects.js
-│   │   ├── tickets.js
-│   │   └── comments.js
-│   ├── .env
-│   ├── package.json
-│   └── server.js
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── context/
-│   │   ├── pages/
-│   │   ├── services/
-│   │   ├── App.jsx
-│   │   └── main.jsx
-│   ├── index.html
-│   ├── package.json
-│   ├── tailwind.config.js
-│   │   └── vite.config.js
-└── README.md
-```
+### Phase 4: Documentation
+
+- [ ] 4.1 Update README with deployment instructions
+
+## Important Notes
+
+- Backend will be deployed as Vercel Serverless Functions
+- Frontend will be deployed as a static site on Vercel
+- MongoDB Atlas must be used for the database (local MongoDB won't work on Vercel)
+- After deployment, user needs to set environment variables in Vercel dashboard
