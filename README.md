@@ -91,6 +91,23 @@ The frontend will run on `http://localhost:3000`
 
 Open your browser and navigate to `http://localhost:3000`
 
+<strong>To run the application in the future:</strong>
+
+<strong>ToOpen a terminal and run: </strong>
+
+cd "c:/Code/R.W.P/Bug Tracker/backend"
+
+<strong>then</strong>
+
+node server.js
+
+Open another terminal and run:
+
+cd "c:/Code/R.W.P/Bug Tracker/frontend"
+then
+
+npm run dev
+
 ## API Endpoints
 
 ### Authentication
@@ -124,4 +141,4 @@ Open your browser and navigate to `http://localhost:3000`
 - **Frontend**: React, Vite, Tailwind CSS, React Router, Axios
 - **Backend**: Node.js, Express, MongoDB, Mongoose, JWT
 - **Database**: MongoDB
-"# Bug-Tracker" 
+  "# Bug-Tracker"
