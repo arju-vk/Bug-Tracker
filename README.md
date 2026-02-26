@@ -91,20 +91,21 @@ The frontend will run on `http://localhost:3000`
 
 Open your browser and navigate to `http://localhost:3000`
 
-<strong>To run the application in the future:</strong>
+## To run the application in the future
 
-<strong>ToOpen a terminal and run: </strong>
+**Open a terminal and run:**
 
 cd "c:/Code/R.W.P/Bug Tracker/backend"
 
-<strong>then</strong>
+**Then**
 
 node server.js
 
-Open another terminal and run:
+**Open another terminal and run:**
 
 cd "c:/Code/R.W.P/Bug Tracker/frontend"
-then
+
+**then**
 
 npm run dev
 
