@@ -95,19 +95,19 @@ Open your browser and navigate to `http://localhost:3000`
 
 **Open a terminal and run:**
 
-cd "c:/Code/R.W.P/Bug Tracker/backend"
+`cd "c:/Code/R.W.P/Bug Tracker/backend"`
 
 **Then**
 
-node server.js
+`node server.js`
 
 **Open another terminal and run:**
 
-cd "c:/Code/R.W.P/Bug Tracker/frontend"
+`cd "c:/Code/R.W.P/Bug Tracker/frontend"`
 
 **then**
 
-npm run dev
+`npm run dev`
 
 ## API Endpoints
 
