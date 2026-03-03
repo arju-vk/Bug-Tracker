@@ -30,7 +30,8 @@ Deploy the Bug Tracker application (both frontend and backend) to Vercel.
 
 ## Important Notes
 
-- Backend will be deployed as Vercel Serverless Functions
-- Frontend will be deployed as a static site on Vercel
-- MongoDB Atlas must be used for the database (local MongoDB won't work on Vercel)
-- After deployment, user needs to set environment variables in Vercel dashboard
+- Backend will be deployed as Vercel Serverless Functions.
+- Frontend will be deployed as a static site on Vercel.
+- MongoDB Atlas must be used for the database (local MongoDB won't work on Vercel).
+- After deployment, user needs to set environment variables in Vercel dashboard.
+- This is made with BlackBox Ai Tools.
